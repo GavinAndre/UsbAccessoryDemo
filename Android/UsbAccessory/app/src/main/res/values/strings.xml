@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsbAccessory</string>
+    <string name="local_prompt"><![CDATA[device> ]]></string>
+    <string name="info_text">Please plug-in some Android-device into USB that has the Accessory2Accessory host app installed</string>
+</resources>
